@@ -1,2 +1,2 @@
 # Telegram-Bot
-Simple telegram bot. that take information
+Simple telegram bot, that collects information
